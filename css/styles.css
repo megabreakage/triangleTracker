@@ -1,0 +1,28 @@
+
+body{
+
+}
+#receipt{
+  display: none;
+}
+p, h2{
+  text-align: center;
+}
+.fillForm{
+  float: none;
+  margin: 0 auto;
+  padding: 15px;
+}
+input{
+  float: none;
+  margin: 0 auto;
+  width: 48% !important;
+  margin: 5px;
+}
+.contacts{
+  float: none;
+  margin: 0 auto;
+}
+.tel{
+  width: 45% !important;
+}
