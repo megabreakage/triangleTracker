@@ -1,28 +1,19 @@
 
 body{
-
+background-image: url("../assets/triangles.png");
+background-repeat: no-repeat;
+background-size: cover;
 }
-#receipt{
-  display: none;
-}
-p, h2{
+h2{
   text-align: center;
 }
-.fillForm{
-  float: none;
-  margin: 0 auto;
-  padding: 15px;
+.triangleTracker{
+  margin-top: 10%;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  padding: 20px;
+
 }
 input{
-  float: none;
-  margin: 0 auto;
-  width: 48% !important;
-  margin: 5px;
-}
-.contacts{
-  float: none;
-  margin: 0 auto;
-}
-.tel{
-  width: 45% !important;
+  margin-bottom: 10px;
 }
